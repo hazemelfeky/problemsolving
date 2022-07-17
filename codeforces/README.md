@@ -4,8 +4,6 @@
 
 [A - Even Odds](https://codeforces.com/contest/318/problem/A)
 
-[I - Strong Password](https://codeforces.com/contest/318/problem/A)
-
 [B - z-sort](https://codeforces.com/contest/652/problem/B)
 
 [A - Raising Bacteria](https://codeforces.com/contest/579/problem/A)
