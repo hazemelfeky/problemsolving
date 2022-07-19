@@ -18,4 +18,7 @@
 
 [A - Multiplication Table](https://codeforces.com/contest/577/problem/A)
 
+[B - Lecture](https://codeforces.com/problemset/problem/499/B)
+
+
 
