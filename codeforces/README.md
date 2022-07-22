@@ -20,5 +20,5 @@
 
 [B - Lecture](https://codeforces.com/problemset/problem/499/B)
 
-
+[B - Fence](https://codeforces.com/contest/363/problem/B)
 
