@@ -25,3 +25,5 @@
 [A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
 
 [C - Boxes Packing](https://codeforces.com/contest/903/problem/C)
+
+[A - Digital Counter](https://codeforces.com/contest/495/problem/A)
