@@ -23,3 +23,5 @@
 [B - Fence](https://codeforces.com/contest/363/problem/B)
 
 [A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
+
+[C - Boxes Packing](https://codeforces.com/contest/903/problem/C)
