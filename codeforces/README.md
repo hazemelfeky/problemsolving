@@ -22,3 +22,4 @@
 
 [B - Fence](https://codeforces.com/contest/363/problem/B)
 
+[A - Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
