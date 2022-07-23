@@ -31,3 +31,6 @@
 [B - Burglar and Matches](https://codeforces.com/contest/16/problem/B)
 
 [B - Sum of Digits](https://codeforces.com/contest/102/problem/B)
+
+[B - Petya and Countryside](https://codeforces.com/contest/66/problem/B)
+
