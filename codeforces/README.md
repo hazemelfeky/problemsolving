@@ -27,3 +27,5 @@
 [C - Boxes Packing](https://codeforces.com/contest/903/problem/C)
 
 [A - Digital Counter](https://codeforces.com/contest/495/problem/A)
+
+[B - Burglar and Matches](https://codeforces.com/contest/16/problem/B)
