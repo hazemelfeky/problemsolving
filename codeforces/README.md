@@ -39,3 +39,5 @@
 [B - Coins](https://codeforces.com/contest/47/problem/B)
 
 [B - Easter Eggs](https://codeforces.com/contest/78/problem/B)
+
+[B - Decoding](https://codeforces.com/contest/746/problem/B)
