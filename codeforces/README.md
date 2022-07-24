@@ -37,3 +37,5 @@
 [B - Caisa and Pylons](https://codeforces.com/contest/463/problem/B)
 
 [B - Coins](https://codeforces.com/contest/47/problem/B)
+
+[B - Easter Eggs](https://codeforces.com/contest/78/problem/B)
