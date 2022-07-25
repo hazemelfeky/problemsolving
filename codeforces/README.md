@@ -44,3 +44,5 @@
 
 [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)
 
+[B - President's Office](https://codeforces.com/contest/6/problem/B)
+
