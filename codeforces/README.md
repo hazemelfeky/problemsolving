@@ -49,3 +49,5 @@
 [B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B)
 
 [B - Sort the Array](https://codeforces.com/contest/451/problem/B)
+
+[B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B)
