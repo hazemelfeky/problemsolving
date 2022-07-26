@@ -47,3 +47,5 @@
 [B - President's Office](https://codeforces.com/contest/6/problem/B)
 
 [B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B)
+
+[B - Sort the Array](https://codeforces.com/contest/451/problem/B)
