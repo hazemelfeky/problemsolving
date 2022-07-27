@@ -55,3 +55,5 @@
 [A - Laptops](https://codeforces.com/contest/456/problem/A)
 
 [A - Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
+
+[B - Regular Bracket Sequence](https://codeforces.com/problemset/problem/26/B)
