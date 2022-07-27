@@ -53,3 +53,5 @@
 [B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B)
 
 [A - Laptops](https://codeforces.com/contest/456/problem/A)
+
+[A - Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
