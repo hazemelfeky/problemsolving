@@ -19,3 +19,5 @@
 [1048 - Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048)
 
 [1069 - Diamonds and Sand](https://www.beecrowd.com.br/judge/en/problems/view/1069)
+
+[1110 - Throwing Cards Away](https://www.beecrowd.com.br/judge/en/problems/view/1110)
