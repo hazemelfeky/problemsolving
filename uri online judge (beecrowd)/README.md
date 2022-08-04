@@ -25,3 +25,5 @@
 [1281 - Going to the Market](https://www.beecrowd.com.br/judge/en/problems/view/1281)
 
 [1430 - Jingle Composing](https://www.beecrowd.com.br/judge/en/problems/view/1430)
+
+[1548 - Canteen Queue](https://www.beecrowd.com.br/judge/en/problems/view/1548)
