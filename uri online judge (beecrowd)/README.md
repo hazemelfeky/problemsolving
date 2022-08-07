@@ -28,4 +28,6 @@
 
 [1548 - Canteen Queue](https://www.beecrowd.com.br/judge/en/problems/view/1548)
 
+[1709 - Shuffled Deck](https://www.beecrowd.com.br/judge/en/problems/view/1709)
+
 [2136 - Friends of Habay](https://www.beecrowd.com.br/judge/en/problems/view/2136)
