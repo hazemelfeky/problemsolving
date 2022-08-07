@@ -27,3 +27,5 @@
 [1430 - Jingle Composing](https://www.beecrowd.com.br/judge/en/problems/view/1430)
 
 [1548 - Canteen Queue](https://www.beecrowd.com.br/judge/en/problems/view/1548)
+
+[2136 - Friends of Habay](https://www.beecrowd.com.br/judge/en/problems/view/2136)
