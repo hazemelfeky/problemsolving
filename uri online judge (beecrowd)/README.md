@@ -22,6 +22,8 @@
 
 [1110 - Throwing Cards Away](https://www.beecrowd.com.br/judge/en/problems/view/1110)
 
+[1259 - Even and Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259)
+
 [1281 - Going to the Market](https://www.beecrowd.com.br/judge/en/problems/view/1281)
 
 [1430 - Jingle Composing](https://www.beecrowd.com.br/judge/en/problems/view/1430)
