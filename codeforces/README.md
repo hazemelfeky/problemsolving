@@ -57,3 +57,5 @@
 [A - Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
 
 [B - Regular Bracket Sequence](https://codeforces.com/problemset/problem/26/B)
+
+[C - Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C)
