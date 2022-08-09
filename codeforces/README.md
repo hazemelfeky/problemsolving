@@ -59,3 +59,5 @@
 [B - Regular Bracket Sequence](https://codeforces.com/problemset/problem/26/B)
 
 [C - Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C)
+
+[B - Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
