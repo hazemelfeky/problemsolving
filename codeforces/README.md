@@ -65,3 +65,5 @@
 [C - Registration System](https://codeforces.com/problemset/problem/4/C)
 
 [B - Facetook Priority Wall](https://codeforces.com/problemset/problem/75/B)
+
+[A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)
