@@ -61,3 +61,5 @@
 [C - Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C)
 
 [B - Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+
+[C - Registration System](https://codeforces.com/problemset/problem/4/C)
