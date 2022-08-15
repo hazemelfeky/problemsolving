@@ -63,3 +63,5 @@
 [B - Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
 
 [C - Registration System](https://codeforces.com/problemset/problem/4/C)
+
+[B - Facetook Priority Wall](https://codeforces.com/problemset/problem/75/B)
