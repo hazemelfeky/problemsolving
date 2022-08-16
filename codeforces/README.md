@@ -67,3 +67,5 @@
 [B - Facetook Priority Wall](https://codeforces.com/problemset/problem/75/B)
 
 [A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)
+
+[B - Worms](https://codeforces.com/problemset/problem/474/B)
