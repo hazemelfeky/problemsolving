@@ -69,3 +69,5 @@
 [A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)
 
 [B - Worms](https://codeforces.com/problemset/problem/474/B)
+
+[A - Word](https://codeforces.com/contest/59/problem/A)
