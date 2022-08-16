@@ -71,3 +71,12 @@
 [B - Worms](https://codeforces.com/problemset/problem/474/B)
 
 [A - Word](https://codeforces.com/contest/59/problem/A)
+
+[A - Petya and Strings](https://codeforces.com/contest/112/problem/A)
+
+[A - Gravity Flip](https://codeforces.com/contest/405/problem/A)
+
+[A - Team](https://codeforces.com/contest/231/problem/A)
+
+[A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A)
+
