@@ -12,6 +12,7 @@ int main() {
   cin>>t;
   while(t--) {
     cin>>x;
+    if(x==0) break;
     bool light = false;
     for(int i = 1; i < x; i++) {
       if(x%i==0) light = !light;
