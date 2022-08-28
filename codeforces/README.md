@@ -83,3 +83,5 @@
 [A - Magnets](https://codeforces.com/contest/344/problem/A)
 
 [A - Stones on the Table](https://codeforces.com/contest/266/problem/A)
+
+[A - Team Olympiad](https://codeforces.com/contest/490/problem/A)
