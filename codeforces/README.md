@@ -87,3 +87,5 @@
 [A - Team Olympiad](https://codeforces.com/contest/490/problem/A)
 
 [A - New Password](https://codeforces.com/contest/770/problem/A)
+
+[A - Dice Tower](https://codeforces.com/contest/225/problem/A)
